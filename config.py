@@ -1,10 +1,10 @@
 # Database Config
 
 config = {
-	'MYSQL_DATABASE_USER' : '', #Username for mysql
+	'MYSQL_DATABASE_USER' : 'hashbird_hash', #Username for mysql
 	'MYSQL_DATABASE_DB' : 'Chronos',
-	'MYSQL_DATABASE_PASSWORD' : '', # Password to connect to mysql
-	'MYSQL_DATABASE_HOST' : 'localhost', 
+	'MYSQL_DATABASE_PASSWORD' : 'hash123', # Password to connect to mysql
+	'MYSQL_DATABASE_HOST' : 'hashbird.com', 
 	'USERNAME' : '',
 	'USERID' :'',
 }
